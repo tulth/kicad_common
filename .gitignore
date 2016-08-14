@@ -1,0 +1,8 @@
+*~
+*.nogit
+.#*
+*.bak
+*.bck
+*-cache.lib
+*.pyc
+__pycache__
