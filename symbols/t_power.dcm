@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DJ06S4805A
+D DCDC CONVERTER 5VOUT 6W
+K DCDC converter 5v
+$ENDCMP
+#
+$CMP GBU806
+D RECT BRIDGE GPP 600V 8A GBU
+K bridge rectifier
+$ENDCMP
+#
+#End Doc Library

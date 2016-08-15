@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TX2-LT-5V-TH
+D General Purpose Relay, DPDT (2 Form C), dual coil latching, 5VDC Coil, Through Hole
+K relay latching
+$ENDCMP
+#
+#End Doc Library

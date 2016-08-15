@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148
+D General purpose diode,  100V, 200mA, DO35
+$ENDCMP
+#
+#End Doc Library
