@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF tstat_cable_con P 0 40 Y Y 1 F N
 F0 "P" 250 100 60 H V C CNN
 F1 "tstat_cable_con" 250 -800 60 H V C CNN
-F2 "JST_EH_RIGHT_8pin" 250 100 60 H I C CNN
+F2 "t_footprints:JST_EH_RIGHT_8pin" 250 100 60 H I C CNN
 F3 "" 250 100 60 H I C CNN
 DRAW
 S 150 -750 350 50 0 1 0 N
@@ -26,7 +26,7 @@ ENDDEF
 DEF tstat_ui_conn P 0 40 Y Y 1 F N
 F0 "P" -200 100 60 H V C CNN
 F1 "tstat_ui_conn" -200 -600 60 H V C CNN
-F2 "" -200 -600 60 H I C CNN
+F2 "t_footprints:JST_PH_RIGHT_6pin" -200 -600 60 H I C CNN
 F3 "" -200 -600 60 H I C CNN
 DRAW
 S -100 50 -300 -550 0 1 0 N
