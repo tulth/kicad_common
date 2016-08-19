@@ -1,0 +1,42 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# tstat_cable_con
+#
+DEF tstat_cable_con P 0 40 Y Y 1 F N
+F0 "P" 250 100 60 H V C CNN
+F1 "tstat_cable_con" 250 -800 60 H V C CNN
+F2 "JST_EH_RIGHT_8pin" 250 100 60 H I C CNN
+F3 "" 250 100 60 H I C CNN
+DRAW
+S 150 -750 350 50 0 1 0 N
+X R 1 0 0 200 R 50 50 1 1 w
+X C 2 0 -100 200 R 50 50 1 1 w
+X G 3 0 -200 200 R 50 50 1 1 P
+X Y 4 0 -300 200 R 50 50 1 1 P
+X W 5 0 -400 200 R 50 50 1 1 P
+X B 6 0 -500 200 R 50 50 1 1 P
+X O 7 0 -600 200 R 50 50 1 1 P
+X E 8 0 -700 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# tstat_ui_conn
+#
+DEF tstat_ui_conn P 0 40 Y Y 1 F N
+F0 "P" -200 100 60 H V C CNN
+F1 "tstat_ui_conn" -200 -600 60 H V C CNN
+F2 "" -200 -600 60 H I C CNN
+F3 "" -200 -600 60 H I C CNN
+DRAW
+S -100 50 -300 -550 0 1 0 N
+X 5V 1 0 0 100 L 50 50 1 1 W
+X GND 2 0 -100 100 L 50 50 1 1 W
+X RX 3 0 -200 100 L 50 50 1 1 I
+X GND 4 0 -300 100 L 50 50 1 1 P
+X TX 5 0 -400 100 L 50 50 1 1 O
+X GND 6 0 -500 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

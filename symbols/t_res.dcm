@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_thruhole
+D Resistor
+K R DEV
+$ENDCMP
+#
+#End Doc Library
