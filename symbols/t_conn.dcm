@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP lamp_cca_rpi3_conn
+D Connector from rpi3 to lamp relay if board
+K connector
+$ENDCMP
+#
+$CMP lamp_cca_relay_conn
+D Connector from lamp relay board lamp relay if board
+K connector
+$ENDCMP
+#
 #End Doc Library
