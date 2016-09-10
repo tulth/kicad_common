@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSA12110
+D Button from Sparkfun COM-10302 tactile button assortment
+K Switch pushbutton button
+$ENDCMP
+#
+#End Doc Library
