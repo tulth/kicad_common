@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP G5LE-14_DC5
+D General Purpose Relay SPDT (1 Form C) 5VDC Coil Through Hole
+K relay latching
+$ENDCMP
+#
 $CMP TX2-LT-5V-TH
 D General Purpose Relay, DPDT (2 Form C), dual coil latching, 5VDC Coil, Through Hole
 K relay latching
