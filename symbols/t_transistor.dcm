@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5LN01SP
+D N-Channel Small Signal MOSFET, 50V, 0.1A, 7.8Ohm, 1.5V drive, Single SPA for Ultrahigh-Speed Switching Applications
+K fet nfet transistor
+$ENDCMP
+#
+$CMP 5LP01SP
+D P-Channel Small Signal MOSFET, -50V, -0.07A, 23Ohm, Single SPA
+K fet pfet transistor
+$ENDCMP
+#
+#End Doc Library
