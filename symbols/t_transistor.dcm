@@ -10,4 +10,10 @@ D P-Channel Small Signal MOSFET, -50V, -0.07A, 23Ohm, Single SPA
 K fet pfet transistor
 $ENDCMP
 #
+$CMP BSS138NH6327XTSA2
+D N-Chan 60V 230mA (Ta) 360mW (Ta) Surface Mount PG-SOT23-3
+K N-Channel MOSFET Logic Level
+F http://www.infineon.com/dgdl/Infineon-BSS138N-DS-v02_86-en.pdf?fileId=db3a304330f68606013104d944d53efb
+$ENDCMP
+#
 #End Doc Library
