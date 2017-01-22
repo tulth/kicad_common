@@ -1,11 +1,31 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# lamp_cca_rpi3_conn
+# CP-43514-ND
 #
-DEF lamp_cca_rpi3_conn P 0 40 Y N 1 F N
+DEF CP-43514-ND J 0 0 N Y 1 F N
+F0 "J" -125 -250 60 H V C CNN
+F1 "CP-43514-ND" 0 -350 60 H V C CNN
+F2 "t_footprints:4pin35mmAudio" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+P 3 0 1 0 0 -200 -200 -200 -200 -150 N
+P 3 0 1 0 0 100 -25 75 -50 100 N
+P 4 0 1 0 0 -100 -50 -100 -75 -75 -100 -100 N
+P 4 0 1 0 0 200 -100 200 -125 175 -150 200 N
+P 5 0 1 0 -175 -150 -225 -150 -225 125 -175 125 -175 -150 N
+X 1:S 1 200 -200 200 L 50 50 1 1 P
+X 2:T 2 200 100 200 L 50 50 1 1 P
+X 3:R1 3 200 -100 200 L 50 50 1 1 P
+X 4:R2 4 200 200 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# lamp_cca_relay_conn
+#
+DEF lamp_cca_relay_conn P 0 40 Y N 1 F N
 F0 "P" 0 250 50 H V C CNN
-F1 "lamp_cca_rpi3_conn" 100 0 50 V V C CNN
+F1 "lamp_cca_relay_conn" 100 0 50 V V C CNN
 F2 "t_footprints:conn_4_big_pads" 0 0 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -21,11 +41,11 @@ X P4 4 -200 -150 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lamp_cca_relay_conn
+# lamp_cca_rpi3_conn
 #
-DEF lamp_cca_relay_conn P 0 40 Y N 1 F N
+DEF lamp_cca_rpi3_conn P 0 40 Y N 1 F N
 F0 "P" 0 250 50 H V C CNN
-F1 "lamp_cca_relay_conn" 100 0 50 V V C CNN
+F1 "lamp_cca_rpi3_conn" 100 0 50 V V C CNN
 F2 "t_footprints:conn_4_big_pads" 0 0 50 H I C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW

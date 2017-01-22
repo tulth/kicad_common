@@ -1,12 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP lamp_cca_rpi3_conn
-D Connector from rpi3 to lamp relay if board
-K connector
+$CMP CP-43514-ND
+D JACK 4Conductor 3.5mm Right angle
+K TRRS Mic Jack 3.5mm headphone
 $ENDCMP
 #
 $CMP lamp_cca_relay_conn
 D Connector from lamp relay board lamp relay if board
+K connector
+$ENDCMP
+#
+$CMP lamp_cca_rpi3_conn
+D Connector from rpi3 to lamp relay if board
 K connector
 $ENDCMP
 #
