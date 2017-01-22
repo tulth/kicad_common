@@ -20,6 +20,11 @@ D Connector, single row, 01x04
 K connector
 $ENDCMP
 #
+$CMP TCONN_01X05
+D Connector, single row, 01x05
+K connector
+$ENDCMP
+#
 $CMP lamp_cca_relay_conn
 D Connector from lamp relay board lamp relay if board
 K connector
