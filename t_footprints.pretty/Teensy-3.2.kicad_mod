@@ -1,5 +1,5 @@
 (module Teensy-3.1 locked (layer F.Cu) (tedit 5506D470)
-  (fp_text reference U4 (at -5.08 -7.62 90) (layer F.SilkS)
+  (fp_text reference REF** (at -5.08 -7.62 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_text value TEENSY-3.2 (at 5.08 -10.16) (layer F.Fab)

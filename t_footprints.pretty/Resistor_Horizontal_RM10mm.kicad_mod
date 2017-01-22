@@ -1,7 +1,7 @@
 (module Resistor_Horizontal_RM10mm (layer F.Cu) (tedit 57CB0716)
   (descr "Resistor, Axial,  RM 10mm, 1/3W")
   (tags "Resistor Axial RM 10mm 1/3W")
-  (fp_text reference R1 (at 5 -2) (layer F.SilkS)
+  (fp_text reference REF** (at 5 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value 4.75K (at 5.08 0) (layer F.Fab)

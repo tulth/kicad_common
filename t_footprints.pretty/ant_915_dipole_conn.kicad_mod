@@ -1,7 +1,7 @@
 (module ant_915_dipole_conn (layer F.Cu) (tedit 57CA244E)
   (descr "module 1 pin (ou trou mecanique de percage)")
   (tags DEV)
-  (fp_text reference AE1 (at 0 -3.048) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.048) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value ANTENNA_915 (at 0 2.794) (layer F.Fab)
