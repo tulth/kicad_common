@@ -5,6 +5,11 @@ D CAP ALUM 100uF 20% 10V RADIAL
 K cap bypass
 $ENDCMP
 #
+$CMP ECW-FD2W275K
+D 2.7µF +/-10% Film Capacitor 450V Polypropylene (PP), Metallized Radial
+K cap
+$ENDCMP
+#
 $CMP EEU-EB1J470
 D 47uF 63V Aluminum Capacitors Radial, Can 10000 Hrs @ 105°C
 K cap bypass
@@ -20,13 +25,13 @@ D CAP CER 0.1uF 50V X7R RADIAL
 K cap
 $ENDCMP
 #
-$CMP R82DC4100AA60K
-D CAP FILM 1uF 10% 63VDC RADIAL
+$CMP K221K10X7RF5UH5
+D CAP CER 220PF 50V X7R RADIAL
 K cap
 $ENDCMP
 #
-$CMP ECW-FD2W275K
-D 2.7µF +/-10% Film Capacitor 450V Polypropylene (PP), Metallized Radial
+$CMP R82DC4100AA60K
+D CAP FILM 1uF 10% 63VDC RADIAL
 K cap
 $ENDCMP
 #
