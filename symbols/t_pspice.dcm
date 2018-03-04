@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP E
+D Voltage Controlled Voltage Source
+$ENDCMP
+#
+$CMP SW
+D Voltage Controlled Switch
+K switch
+$ENDCMP
+#
+$CMP TLV2362
+D op amp
+K op amp
+$ENDCMP
+#
+#End Doc Library

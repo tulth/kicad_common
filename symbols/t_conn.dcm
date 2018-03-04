@@ -35,4 +35,9 @@ D Connector from rpi3 to lamp relay if board
 K connector
 $ENDCMP
 #
+$CMP mounting_hole
+D Connector, single row, 01x01, pin header
+K connector
+$ENDCMP
+#
 #End Doc Library
